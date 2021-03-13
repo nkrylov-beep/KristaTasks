@@ -3,10 +3,7 @@ package org.example;
 import io.undertow.Undertow;
 import io.undertow.util.Headers;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main(String[] args) {
